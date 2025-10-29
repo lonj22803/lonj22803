@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**lonj22803/lonj22803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Londoño, MSc.
+[![UPM](https://www.upm.es/themes/comun/logos/institucional.png)](https://portalcientifico.upm.es/es/ipublic/researcher/338744) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-londo%C3%B1o228) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.londono@upm.es)
 
-Here are some ideas to get you started:
+ + I’m a PhD student at the School of Telecommunications Engineering (ETSIT), Polytechnic University of Madrid 🇪🇸.
+ + I’m a data scientist specializing in Natural Language Processing, audio analysis, and industrial AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Github Stats
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonj22803&theme=transparent)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact)
