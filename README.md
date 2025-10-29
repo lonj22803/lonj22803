@@ -9,7 +9,5 @@
 
 ### Github Stats
 --- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&hide_rank=true)
-![GitHub logo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&rank_icon=github )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact&theme=shadow_blue)
