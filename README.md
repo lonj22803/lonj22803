@@ -8,7 +8,8 @@
 
 
 ### Github Stats
----[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonj22803&theme=transparent)](https://git.io/streak-stats)
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonj22803&theme=transparent)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=transparent)
 
