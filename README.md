@@ -9,4 +9,5 @@
 
 ### Github Stats
 --- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&commits_year=2025) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact&theme=shadow_blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&hide_rank=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact&theme=shadow_blue)
