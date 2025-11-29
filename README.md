@@ -9,9 +9,3 @@
 
  + I’m a PhD student at the School of Telecommunications Engineering (ETSIT), Polytechnic University of Madrid 🇪🇸.
  + I’m a data scientist specializing in Natural Language Processing, audio analysis, and industrial AI solutions.
-
-
-### Github Stats
---- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&rank_icon=github )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact&theme=shadow_blue)
