@@ -1,4 +1,3 @@
-
 # Juan Londoño, MSc.
 [![UPM](https://www.upm.es/themes/comun/logos/institucional.png)](https://portalcientifico.upm.es/es/ipublic/researcher/338744)
 [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0002-0825-5396)
@@ -9,3 +8,9 @@
 
  + I’m a PhD student at the School of Telecommunications Engineering (ETSIT), Polytechnic University of Madrid 🇪🇸.
  + I’m a data scientist specializing in Natural Language Processing, audio analysis, and industrial AI solutions.
+
+
+### Github Stats
+--- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lonj22803&show_icons=true&theme=shadow_blue&rank_icon=github )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonj22803&layout=compact&theme=shadow_blue)
